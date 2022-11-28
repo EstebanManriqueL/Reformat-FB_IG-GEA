@@ -1,1 +1,1 @@
-[Manual de usuario para Herramienta](./CONTRIBUTING.md)
+[Manual de usuario para Herramienta](./Manual_de_Uso.pdf)
